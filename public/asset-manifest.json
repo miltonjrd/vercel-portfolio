@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c14ed63b.css",
+    "main.js": "/static/js/main.2bfa962e.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Exo2-VariableFont_wght.ttf": "/static/media/Exo2-VariableFont_wght.718ec91358aa7ee8083b.ttf",
+    "static/media/AlegreyaSans-Regular.ttf": "/static/media/AlegreyaSans-Regular.1700f08d80abc337986e.ttf",
+    "static/media/profile.jpg": "/static/media/profile.ed3ccb55755f6a6c0902.jpg",
+    "static/media/Capturar.PNG": "/static/media/Capturar.73ee2289fc7e49491d62.PNG",
+    "static/media/PHP.png": "/static/media/PHP.0a564540c19c7189202e.png",
+    "static/media/progressive_app.svg": "/static/media/progressive_app.7cf275ff6124bcda7afacc341302c7ec.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "static/media/LARAVEL.svg": "/static/media/LARAVEL.ba995bd47e3a7cc141cc.svg",
+    "index.html": "/index.html",
+    "main.c14ed63b.css.map": "/static/css/main.c14ed63b.css.map",
+    "main.2bfa962e.js.map": "/static/js/main.2bfa962e.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14ed63b.css",
+    "static/js/main.2bfa962e.js"
+  ]
+}
