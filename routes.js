@@ -4,7 +4,7 @@ const router = express.Router();
 const MailController = require('./controllers/MailController');
 
 router.get('/', (req, res) => {
-  res.setHeader('Content-Type', 'text/html');
+  res.setHeader('Content-Type', 'application/json');
   res.setHeader('Cache-Control', 's-max-age=1, stale-while-revalidate');
 });
 
