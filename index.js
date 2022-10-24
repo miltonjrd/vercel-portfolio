@@ -15,11 +15,13 @@ app.use(express.json());
 app.use(cors());
 app.use('/api', apiRoutes);
 
-const server = https.createServer({
+/*const server = https.createServer({
   key: sslPrivateKey,
   cert: sslCertificate
 }, app);
 
 server.listen(443, () => {
   console.log('Rodando')
-});
+});*/
+
+module.exports = app;
