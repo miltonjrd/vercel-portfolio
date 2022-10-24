@@ -1,0 +1,21 @@
+{
+  "about": "Olá, visitante! Meu nome é Milton, tenho 17 anos e sou desenvolvedor Full-Stack. Meu interesse em tecnologia vem desde a infância, época em que eu desmontava e remontava meus brinquedos só pra ver como eles funcionavam por dentro. Conhecido como um ótimo líder, alguém que sabe se comunicar, se organizar e também improvisar, sou um autodidata nato. Meu foco é atender as demandas dos meus clientes com rapidez e qualidade, tanto em design UI/UX, quanto na escrita dos meus códigos.",
+  "stacks": [
+    "HTML5.png",
+    "CSS3.png",
+    "JAVASCRIPT.png",
+    "REACTJS.png",
+    "NODEJS.png",
+    "GIT.png",
+    "PHP.png",
+    "LARAVEL.svg"
+  ],
+  "projects": [
+    {
+      "preview": "Capturar.png",
+      "title": "Habblet XD",
+      "description": "A versão 2.0 do fan site mais famoso do Habbo Hotel.",
+      "url": "https://habbletxd.com.br"
+    }
+  ]
+}
