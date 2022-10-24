@@ -10,15 +10,10 @@ const sslCertificate = fs.readFileSync(__dirname+'/ssl/ssl.crt/server.crt');
 
 const app = express();
 
-
 app.use(express.static(__dirname + '/public'));
 app.use(express.json());
 app.use(cors());
 app.use('/api', apiRoutes);
-
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/public/index.html');
-});
 
 const server = https.createServer({
   key: sslPrivateKey,
